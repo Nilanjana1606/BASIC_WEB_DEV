@@ -1,0 +1,65 @@
+body{
+    background: linear-gradient(pink,aqua);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 20px;
+}
+
+#box1{
+    border: 2px solid;
+    width: 250px;
+    height:250px;
+    font-size : 22px;
+    background:rgb(108, 108, 246);
+    border-radius: 5px;
+    padding:10px;
+
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+
+    
+}
+
+#box2{
+    border: 2px solid;
+    width: 250px;
+    height:250px;
+    font-size : 22px;
+    background:rgb(108, 108, 246);
+    border-radius: 5px;
+    padding:10px;
+    margin-bottom: 20px;
+    
+}
+
+.img1{
+    float :right;
+}
+
+
+.p1{
+    margin-bottom: 200px;
+}
+
+.img2{
+    float:left;
+}
+
+.p2{
+    margin-right:550;
+    text-align: center;
+    text-shadow:rgb(246, 149, 108)
+}
+
+a:link{
+    color: purple;
+}
+
+a:visited{
+    color:grey;
+}
+
+a:hover{
+    color: rgb(122, 13, 13);
+}
